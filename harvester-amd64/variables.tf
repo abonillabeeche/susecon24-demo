@@ -23,7 +23,7 @@ variable "metro" {
 }
 
 variable "ipxe_script" {
-  default = "https://raw.githubusercontent.com/ibrokethecloud/susecon24-demo/main/harvester-amd64/ipxe/ipxe-"
+  default = "https://raw.githubusercontent.com/abonillabeeche/susecon24-demo/main/harvester-amd64/ipxe/ipxe-"
 }
 
 variable "hostname_prefix" {
